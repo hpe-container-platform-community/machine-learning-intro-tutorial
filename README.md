@@ -39,5 +39,7 @@ Open the URL (for me this was: http://127.0.0.1:8888/?token=d7c9f2df7c0f369dcdac
 **NOTE:** You will get a different URL every time you run the docker instance.
 
 
+### Tutorials
 
+After running the lab environment you can open the tutorials in the UI and follow the instructions.
 
