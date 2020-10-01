@@ -7,6 +7,7 @@ Hands-on tutorial for machine learning
 - Basic understanding of Machine Learning concepts
 - Basic Python knowledge
 - Basic Docker knowledge
+- Basic Jupyter knowledge
 - Docker installed
 - Approx. 1GB free disk space
 
