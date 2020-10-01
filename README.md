@@ -20,10 +20,10 @@ Lab environment requires docker. To run the lab environment:
 ```console
 git clone https://github.com/hpe-container-platform-community/machine-learning-intro-tutorial.git
 cd machine-learning-intro-tutorial
-docker run -p 8888:8888 -v "$PWD":/home/jovyan/work jupyter/base-notebook
+docker run -p 8888:8888 -v "$PWD":/home/jovyan jupyter/base-notebook
 ```
 
-Note that the container folder `/home/jovyan/work` maps to the current folder, `machine-learning-intro-tutorial`.
+Note that the container folder `/home/jovyan` maps to the current folder, `machine-learning-intro-tutorial`.
 
 Inspect the output for the URL, e.g.
 
